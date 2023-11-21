@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.contact-info span {
+  margin-left: 10px;
+}
