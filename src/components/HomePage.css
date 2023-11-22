@@ -71,7 +71,6 @@
 
 .about_block {
   position: relative;
-
   height: 450px;
   padding: 50px;
   margin: 50px auto;
@@ -167,6 +166,9 @@
     width: 80%;
     font-size: 16px;
   }
+  .about_block {
+    padding: 5px;
+  }
   .about_block p {
     width: 100%;
     font-size: 16px;
@@ -180,7 +182,9 @@
     width: 100%;
     font-size: 14px;
   }
+
   .about_block p {
-    font-size: 14px;
+    font-size: 12px;
+    width: 100%;
   }
 }
