@@ -33,7 +33,7 @@ const HomePage = () => {
           </p>
         </div>
         <div className="container_right">
-          <img src={IMG2} alt="" />
+          <img src={IMG2} alt="" className="container_right_img" />
         </div>
       </div>
       <div className="about_block">
