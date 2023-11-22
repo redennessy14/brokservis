@@ -165,13 +165,22 @@
   }
   .container_left p {
     width: 80%;
+    font-size: 16px;
   }
   .about_block p {
     width: 100%;
+    font-size: 16px;
+  }
+  .about_block h3 {
+    font-size: 20px;
   }
 }
 @media screen and (max-width: 730px) {
   .container_left p {
     width: 100%;
+    font-size: 14px;
+  }
+  .about_block p {
+    font-size: 14px;
   }
 }
