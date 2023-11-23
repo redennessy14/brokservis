@@ -15,7 +15,8 @@ const HomePage = () => {
           <img src={IMG} alt="" className="header_block_img" />
           <div class="dark-overlay"></div>
           <div class="text-overlay">
-            <h1>ИНН 03112201410131 ОКПО 28982341</h1>
+            <h1>ИНН 03112201410131</h1>
+            <p>ОКПО 28982341</p>
             <p>КР г.Бишкек ул. Ибраимова 115 А офис 604</p>
           </div>
         </div>
